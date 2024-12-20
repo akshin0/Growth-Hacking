@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://gradients.mijo-design.com/public/uploads/files/db7.png);
+}
+
+.card-header{
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+}
+input {
+    border: none;
+    border-bottom: 2px solid rgba(62, 62, 62, 0.473);
+    outline: none;
+}
